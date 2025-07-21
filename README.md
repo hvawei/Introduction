@@ -11,12 +11,10 @@ HVAWEI: High Value Alliance World Electronics Institute
 High Value Alliance World Electronics Institute
 
 # Greek alphabet
-
-\&Eta;\&nu;\&alpha;\&omega;\&epsilon;\&iota;
-
+$H\nu\alpha\omega\varepsilon i$
 # LOGO
 
-!\[HVAWEI\_LOGO](https://raw.githubusercontent.com/hvawei/introduction/master/images/LOGO\_HVAWEI/LOGO\_HVAWEI\_01B.PNG)
+!\[HVAWEI_LOGO](https://github.com/hvawei/Introduction/blob/main/images/LOGO_HVAWEI/LOGO_HVAWEI_01B.PNG)
 
 # Slogan
 
